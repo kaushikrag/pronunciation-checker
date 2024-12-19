@@ -1,3 +1,4 @@
 streamlit
-SpeechRecognition
-pipwin
+speech_recognition
+sounddevice
+scipy
